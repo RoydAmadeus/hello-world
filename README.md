@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I enjoy coffee, beer, and donuts. Sometimes all at the same time.
